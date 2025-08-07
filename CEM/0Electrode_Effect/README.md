@@ -1,0 +1,1 @@
+Figure 3 from Rücker & Günther (2011)

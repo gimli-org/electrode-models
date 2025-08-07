@@ -1,0 +1,1 @@
+Figure 6 from Ronczka et al. (2015)
