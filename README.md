@@ -5,6 +5,8 @@ In ERT, electrodes (typically consisting of well-conducting steel) are mostly co
 - complete electrode model (CEM): the electrode surface is discretized and coupled through contact impedances
 - shunt electrode model (SEM): the electrode is described by a number nodes and connecting edges implying a shunt resistance
 
+![Electrode models after Ronczka et al., 2015a)](SEM_CEM_CCM_sketch.svg)
+
 We published some papers on this subject, first introducing the CEM (Rücker & Günther, 2011), followed by a study of SEM in comparison with CEM and CCM (Ronczka et al., 2015a). Finally, field-scale examples using SEM electrodes for shallow (Ronczka et al., 2015b) or deep (Günther et al., 2015) saltwater intrusion were presented. The underlying codes and data were later ported to pyGIMLi and  collected here.
 
 ## References
